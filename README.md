@@ -1,1 +1,1 @@
-# chatgpt-messenger
+# chatgpt-messenger-clone-app
